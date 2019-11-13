@@ -44,7 +44,6 @@ buck-out
 .gradle
 local.properties
 *.iml
-/android/
 lib/android/build
 lib/android/.classpath
 lib/android/.project
